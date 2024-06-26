@@ -1,0 +1,4 @@
+repository "STGames_project_game@Super_Tsario@cloud"
+  path "/"
+    br "/main"
+    co "/main"
